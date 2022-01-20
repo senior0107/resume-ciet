@@ -1,0 +1,37 @@
+* {
+    color: blue;
+    font-style: italic;
+    font-family: 'franklin gothic medium'
+}
+.main {
+    display:flex;
+
+}
+.left {
+    width:  30%;
+    border: 3px solid #eaecee;
+    box-shadow: 3px 3px 3px blueviolet;
+    margin: 3px;
+
+}
+img {
+    width:95%;
+}
+.right {
+    margin: 3px;
+    width: 65%;
+    border: 2px solid  #add;
+    box-shadow: 3px 3px 3px #add;
+
+}
+.cr {
+    color: red;
+}
+.skills {
+    background-color:plum;
+    border: 2px solid greenyellow;
+    box-shadow: 3px 3px 3px palevioletred;
+    padding: 3px;
+
+
+}
